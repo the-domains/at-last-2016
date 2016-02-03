@@ -6,24 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T19:06:01.289Z'
-dateModified: '2016-02-03T19:05:20.276Z'
+datePublished: '2016-02-03T19:09:47.785Z'
+dateModified: '2016-02-03T19:09:45.768Z'
 title: Groomsmen
 author: []
+sourcePath: _posts/2016-02-03-groomsmen.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-groomsmen.md
-published: true
 url: groomsmen/index.html
 _type: Article
 
 ---
 Groomsmen
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e6942ba-bf53-4b72-9893-79929f32b9fc.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7c924cc-ffd5-44f7-8ea6-eb199d580d0e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/daed8cda-a330-4067-b391-7fda585f70fe.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a98db0f-6d5c-4c17-8c94-288fd2ee4d30.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae49e0ce9f716440f1842027498dc41f0700e41b.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c148a96f5d1eb37edcf1c636c328c936aa786aee.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4aa28dfd74fcbae335d7f89a737dc8e86225bbed.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/93f9898b1f2caa9f4b193c2c1765a487b4d0901e.jpg)
