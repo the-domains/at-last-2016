@@ -1,0 +1,28 @@
+name: At Last 2016
+favicon: null
+layout_spectrum: 0.8839729411993176
+typography_spectrum: 0.03252781368792057
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4201129509601742
+  lightness: 0.58737684157677
+  saturation: 0.16251555737107992
+  rhythmicContrast: 0.6378172307740897
+purpose: []
